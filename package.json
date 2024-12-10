@@ -10,12 +10,12 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.2",
-    "astro": "^4.14.2",
+    "@astrojs/check": "^0.9.4",
+    "astro": "^4.16.17",
     "esbuild": "^0.23.1",
-    "typescript": "^5.5.4"
+    "typescript": "^5.7.2"
   },
   "devDependencies": {
-    "rollup": "^4.21.0"
+    "rollup": "^4.28.1"
   }
 }
