@@ -9,7 +9,7 @@
 ## Clone this repo
 
 ```sh
-git clone https://github.com/fishingelephants/astro-biolink-kit.git biolink
+git clone https://github.com/leifjerami/astro-biolink-kit.git biolink
 ```
 
 ```sh
