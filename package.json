@@ -1,5 +1,5 @@
 {
-  "name": "@fishingelephants/biolink-clone",
+  "name": "@leifjerami/biolink-clone",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "astro": "^4.16.17",
+    "astro": "^4.16.18",
     "esbuild": "^0.23.1",
-    "typescript": "^5.7.2"
+    "typescript": "^5.8.2"
   },
   "devDependencies": {
-    "rollup": "^4.28.1"
+    "rollup": "^4.34.9"
   }
 }
