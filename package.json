@@ -13,9 +13,9 @@
     "@astrojs/check": "^0.9.4",
     "astro": "^4.16.18",
     "esbuild": "^0.23.1",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "rollup": "^4.39.0"
+    "rollup": "^4.40.1"
   }
 }
