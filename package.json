@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
+    "@fortawesome/fontawesome-free": "^6.7.2",
     "astro": "^4.16.18",
     "esbuild": "^0.23.1",
     "typescript": "^5.8.3"
